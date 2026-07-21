@@ -81,22 +81,15 @@ The models allow researchers to reproduce the thermodynamic calculations, evalua
 ## Citation
 
 If this repository contributes to your research, please cite the associated publication:
-
-> Garrido-Fayad, E. A., et al. *Optimization of Molten Salt Steam Generators for Enhanced Rankine Cycle Performance and Reduced Salt Flow in Solar Tower Plants*. Submitted to **Applied Thermal Engineering**.
+Garrido-Fayad, E. A., et al. *Optimization of Molten Salt Steam Generators for Enhanced Rankine Cycle Performance and Reduced Salt Flow in Solar Tower Plants*. Submitted to **Applied Thermal Engineering**.
 
 ## Author
-
 **Enrique A. Garrido-Fayad**
-
 Faculty of Engineering
-
 Universidad Autónoma de Aguascalientes
-
 Aguascalientes, Ags. Mexico
 
 
 ## License
-
 This repository is made available for academic and research purposes.
-
 © Enrique A. Garrido-Fayad. All rights reserved.
