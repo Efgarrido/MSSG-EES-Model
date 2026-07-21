@@ -86,11 +86,11 @@ If this repository contributes to your research, please cite the associated publ
 
 **Enrique A. Garrido-Fayad**
 
-Department of Mechanical Engineering
+Faculty of Engineering
 
 Universidad Autónoma de Aguascalientes
 
-Aguascalientes, Mexico
+Aguascalientes, Ags. Mexico
 
 ---
 
