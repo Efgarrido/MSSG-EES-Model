@@ -1,4 +1,8 @@
-# EES Models for the Thermoenergetic Analysis of Conventional and Modified Molten Salt Steam Generators (MSSG)
+<h1 align="center">
+
+EES Models for the Thermoenergetic Analysis of Conventional and Modified Molten Salt Steam Generators (MSSG)
+
+</h1>
 
 ## Overview
 
