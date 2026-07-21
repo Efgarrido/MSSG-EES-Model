@@ -6,7 +6,7 @@ EES Models for the Thermoenergetic Analysis of Conventional and Modified Molten 
 
 This repository contains the complete **Engineering Equation Solver (EES)** models developed for the numerical analyses presented in the manuscript:
 
-> **Optimization of Molten Salt Steam Generators for Enhanced Rankine Cycle Performance and Reduced Salt Flow in Solar Tower Plants**
+**Optimization of Molten Salt Steam Generators for Enhanced Rankine Cycle Performance and Reduced Salt Flow in Solar Tower Plants**
 
 The repository is provided as supplementary material to facilitate transparency, reproducibility, and future research related to the thermodynamic modeling of Molten Salt Steam Generators (MSSGs) for Solar Tower Power Plants.
 
